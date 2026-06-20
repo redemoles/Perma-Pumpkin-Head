@@ -1,0 +1,7 @@
+{
+	"pack": {
+    	"min_format": [88, 0],
+    	"max_format": [107, 1],
+		"description": [{"text":"Perma ","color":"#6F6F6F"},{"text":"Pumpkin Head ","color":"#FF9F3F"},{"text":"26.1.0","color":"#FFE73F"},{"text":" by ","color":"#9F9F9F"},{"text":"Redemoles","color":"#E73FFF"},{"text":" for ","color":"#9F9F9F"},{"text":"MC 26.2","color":"#3FE7FF"}]
+	}
+}
